@@ -1,5 +1,5 @@
-1.FIPS 204 
-Federal Information Processing Standards Publication 
-Module-Lattice-Based Digital 
-Signature Standard
- https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.204.pdf
+1.National Institute of Standards and Technology (2024) Module-Lattice-Based Digital Signa
+ture Standard. (Department of Commerce, Washington, D.C.), Federal Information Pro
+cessing Standards Publication (FIPS) NIST FIPS 204. https://doi.org/10.6028/NIST.FIPS.204
+
+2.
