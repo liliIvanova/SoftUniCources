@@ -1,4 +1,9 @@
-National Institute of Standards and Technology (2024) Module-Lattice-Based Digital Signature Standard. (Department of Commerce, Washington, D.C.), Federal Information Processing Standards Publication (FIPS) NIST FIPS 204. https://doi.org/10.6028/NIST.FIPS.204
-https://sites.millersville.edu/bikenaga/abstract-algebra-1/quotient-rings-of-polynomial-rings/quotient-rings-of-polynomial-rings.html
-https://github.com/GiacomoPope/dilithium-py
-https://words.filippo.io/kyber-math/
+1. National Institute of Standards and Technology (2024) Module-Lattice-Based Digital Signature Standard. (Department of Commerce, Washington, D.C.), Federal Information Processing Standards Publication (FIPS) NIST FIPS 204. https://doi.org/10.6028/NIST.FIPS.204
+2. https://sites.millersville.edu/bikenaga/abstract-algebra-1/quotient-rings-of-polynomial-rings/quotient-rings-of-polynomial-rings.html
+3. https://github.com/GiacomoPope/dilithium-py
+4. https://words.filippo.io/kyber-math/
+5. https://sites.calvin.edu/scofield/courses/m256/materials/eigenstuff.pdf
+6. https://github.com/Qiskit/textbook/blob/main/notebooks/ch-algorithms/shor.ipynb
+7. https://quantum.cloud.ibm.com/learning/en/modules/computer-science/shors-algorithm
+8. https://www.youtube.com/@chalktalkmath
+9. https://cs-uob.github.io/COMSM0042/assets/pdf/Lattices.pdf
